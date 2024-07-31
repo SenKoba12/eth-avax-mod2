@@ -1,4 +1,4 @@
-# eth-assessment4
+# ETH + AVAX Smart Contract Management
 
 This is the assessment for ETH + AVAX Solidity for Metacrafters using Solidity.
 
